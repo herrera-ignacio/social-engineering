@@ -28,3 +28,4 @@ Notes on social engineering topics.
 ## Bibliography
 
 * The Moral Molecule - Dr. Paul Zak
+* [Las leyes de la naturaleza humana](biblio/ldnh)
