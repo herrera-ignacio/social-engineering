@@ -5,3 +5,4 @@
 1. [Ley de la irracionacionalidad](1.md): domina tu lado emocional.
 2. [Ley del narcicismo](2.md): transforma el amor propio en empatía.
 3. [Ley del juego de roles](3.md): ve más allá de la máscara de la gente.
+4. [Ley del comportamiento compulsivo](4.md): determina la fuerza de carácter. 
